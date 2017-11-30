@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "body-parser": "~1.17.1",
@@ -21,6 +21,6 @@
   },
   "devDependencies": {
     "@angular/cli": "^1.5.5",
-    "nodemon": "^1.12.1"
+    // "nodemon": "^1.12.1"
   }
 }
