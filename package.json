@@ -21,6 +21,5 @@
   },
   "devDependencies": {
     "@angular/cli": "^1.5.5",
-    // "nodemon": "^1.12.1"
   }
 }
