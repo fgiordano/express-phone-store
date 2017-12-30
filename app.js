@@ -15,7 +15,7 @@ var mongoose = require('mongoose');
 require('./configs/database');
 
 
-var app = express();
+// var app = express();
 
 var cors = require('cors');
 
